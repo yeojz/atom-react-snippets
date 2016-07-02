@@ -1,0 +1,21 @@
+{
+  "name": "atom-react-snippets",
+  "version": "0.1.0",
+  "description": "React / Redux snippets (ES5/6/6+)",
+  "keywords": [
+    "react",
+    "redux",
+    "snippets",
+    "es6",
+    "es6+",
+    "es2015",
+    "es7"
+  ],
+  "repository": "https://github.com/yeojz/atom-react-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
