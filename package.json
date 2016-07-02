@@ -1,6 +1,6 @@
 {
   "name": "atom-react-snippets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "React / Redux snippets (ES5/6/6+)",
   "keywords": [
     "react",
@@ -16,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
