@@ -29,4 +29,4 @@
 
   "Redux: connect":
     prefix: "rxc"
-    body: "export default connect(mapStateToProps, mapDispatchToProps)(${1});""
+    body: "export default connect(mapStateToProps, mapDispatchToProps)(${1});"
