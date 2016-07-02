@@ -1,7 +1,7 @@
 ".source.js.jsx":
   "Redux: class skeleton":
     prefix: "rcdx"
-    body: "import React, {PropTypes} from 'react';\nimport {connect} from 'react-redux';\n\nexport class $1 extends React.Component {\n\trender () {\n\t\treturn <div />;\n\t}\n}\n\nexport const mapStateToProps = (state) => {\n\treturn {\n\n\t}\n}\n\nexport const mapDispatchToProps = {\n\n}\n\nexport default connect(mapStateToProps, mapDispatchToProps)(${1});"
+    body: "import React, {PropTypes} from 'react';\nimport {connect} from 'react-redux';\n\nexport class $1 extends React.Component {\n\trender() {\n\t\treturn <div />;\n\t}\n}\n\nexport const mapStateToProps = (state) => {\n\treturn {\n\n\t}\n}\n\nexport const mapDispatchToProps = {\n\n}\n\nexport default connect(mapStateToProps, mapDispatchToProps)(${1});"
 
   "Redux: middleware skeleton":
     prefix: "rxm"
